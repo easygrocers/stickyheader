@@ -1,3 +1,0 @@
-# stickyheader
-stickyheader
-Hello github
